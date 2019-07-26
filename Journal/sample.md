@@ -1,12 +1,18 @@
 |ID||
 |:---|:---|
-|Date (日付)||
-|DOTW (曜日)||
-|Event||
-|一言||
-|就寝最低時間||
-|起床投稿時間||
-|内容投稿時間||
-|場所||
-|詳細な内容||
-|Details||
+|Date||
+|DOTW||
+|Title||
+|TitleJP||
+|Fastest bedtime||
+|Automatic bedtime|unknown|
+|Automatic wake up time|unknown|
+|Record wake up time||
+|Latest wake up time||
+|Record story time||
+|Place||
+|PlaceJP||
+|Character|myself / |
+|CharacterJP|私 / |
+|Story||
+|StoryJP||
