@@ -90,4 +90,4 @@
 |19072002|2019/7/20|Sat|unknown|
 |19072100|2019/7/21|Sun|I traveled in the game world.|
 |19072400|2019/7/24|Wed|I was at university.|
-|19072500|2019/7/25|Thu|I received a notification.|
+|[19072500](https://github.com/Kasugaccho/DreamJournal/blob/master/Journal/19072500.md)|2019/7/25|Thu|I received a notification.|
